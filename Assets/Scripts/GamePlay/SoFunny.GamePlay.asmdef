@@ -1,0 +1,17 @@
+{
+    "name": "SoFunny.GamePlay",
+    "references": [
+        "SoFunny.Util",
+        "SoFunny.Proto",
+        "SoFunny.Asset"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

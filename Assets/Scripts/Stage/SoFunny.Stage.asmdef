@@ -1,0 +1,16 @@
+{
+    "name": "SoFunny.Stage",
+    "references": [
+        "SoFunny.Util",
+        "SoFunny.Proto"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
